@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vchouhy&label=Profile%20views&color=0e75b6&style=flat" alt="vchouhy" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **JavaScript, React, Redux, Express, NodeJs, Typescript, PostreSQL, React Native**
 
 - 👨‍💻 All of my projects are available at [github.com/Vchouhy](github.com/Vchouhy)
 
