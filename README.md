@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vchouhy&label=Profile%20views&color=0e75b6&style=flat" alt="vchouhy" /> </p>
 
-- 🌱 I’m currently working on **Lyracons as a front-end developer**
+- 🌱 I’m currently working on **Talentoo as a Full Stack developer**
 
 - 👨‍💻 All of my projects are available at [github.com/Vchouhy](github.com/Vchouhy)
 
